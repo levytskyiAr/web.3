@@ -23,3 +23,6 @@ for i in range(len(input_numbers)):
 
 print(f"Elapsed time: {elapsed_time:.20f} seconds")
 
+'''
+фУНКЦІЯ БЕЗ multiprocessing
+'''
